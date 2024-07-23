@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-07-22T04:57:05Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2147391026",
+        "amenity": "bus_station",
+        "brand": "飛狗巴士",
+        "bus": "yes",
+        "name": "行天宮",
+        "name:en": "Xingtian Temple",
+        "name:zh": "行天宮",
+        "operator": "建明客運",
+        "public_transport": "station",
+        "@timestamp": "2020-02-25T07:35:59Z",
+        "@version": 4,
+        "@changeset": 81440831,
+        "@user": "Supaplex",
+        "@uid": 274857
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5334732,
+          25.0636295
+        ]
+      },
+      "id": "node/2147391026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2509668585",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "捷運劍南路站(植福)",
+        "public_transport": "station",
+        "@timestamp": "2016-09-16T17:11:15Z",
+        "@version": 3,
+        "@changeset": 42207573,
+        "@user": "Supaplex",
+        "@uid": 274857
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5548022,
+          25.084474
+        ]
+      },
+      "id": "node/2509668585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2620554680",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:housenumber": "202",
+        "addr:postcode": "106",
+        "addr:street": "復興南路二段",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "description": "葛瑪蘭客運(往宜蘭)",
+        "description:en": "Kamalan Bus(To Yilan)",
+        "name": "捷運科技大樓站",
+        "name:en": "MRT Technology Building Station",
+        "name:zh": "捷運科技大樓站",
+        "operator": "葛瑪蘭客運",
+        "operator:en": "Kamalan Bus Station",
+        "public_transport": "station",
+        "wheelchair": "no",
+        "@timestamp": "2020-02-25T07:35:59Z",
+        "@version": 8,
+        "@changeset": 81440831,
+        "@user": "Supaplex",
+        "@uid": 274857
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5432161,
+          25.0267308
+        ]
+      },
+      "id": "node/2620554680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2901411219",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "1",
+        "addr:postcode": "11674",
+        "addr:street": "羅斯福路六段222巷",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "統聯客運景美站",
+        "opening_hours": "Mo-Tu 05:30-22:30; Fr-Su 05:30-23:30",
+        "operator": "統聯汽車客運股份有限公司",
+        "phone": "+886-2-2932-0134",
+        "public_transport": "station",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "@timestamp": "2020-01-25T02:06:26Z",
+        "@version": 11,
+        "@changeset": 80057108,
+        "@user": "Supaplex",
+        "@uid": 274857
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5405353,
+          24.9927144
+        ]
+      },
+      "id": "node/2901411219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3195542166",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "松山轉運站",
+        "public_transport": "station",
+        "wikidata": "Q22774173",
+        "wikipedia": "zh:松山轉運站",
+        "@timestamp": "2022-12-13T06:31:48Z",
+        "@version": 7,
+        "@changeset": 130022451,
+        "@user": "Supaplex",
+        "@uid": 274857
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5783795,
+          25.0498079
+        ]
+      },
+      "id": "node/3195542166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3632280247",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "南港展覽館",
+        "operator": "國光客運",
+        "public_transport": "station",
+        "@timestamp": "2019-03-14T02:03:14Z",
+        "@version": 5,
+        "@changeset": 68120612,
+        "@user": "Vintagejhan",
+        "@uid": 1224430
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6177534,
+          25.0557715
+        ]
+      },
+      "id": "node/3632280247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4934656532",
+        "amenity": "bus_station",
+        "name": "光華巴士天西調度站",
+        "@timestamp": "2017-06-24T23:17:21Z",
+        "@version": 1,
+        "@changeset": 49803830,
+        "@user": "Miller Liu",
+        "@uid": 5443326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5325129,
+          25.124842
+        ]
+      },
+      "id": "node/4934656532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6327136508",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "南港轉運站西站",
+        "public_transport": "station",
+        "start_date": "2017-04-18",
+        "wikidata": "Q30487742",
+        "wikipedia": "zh:南港轉運站西站",
+        "wikipedia:zh": "南港轉運站西站",
+        "@timestamp": "2021-08-07T11:39:57Z",
+        "@version": 4,
+        "@changeset": 109304963,
+        "@user": "twF6wdEYwL",
+        "@uid": 12620959
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6060371,
+          25.0524508
+        ]
+      },
+      "id": "node/6327136508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7787708384",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "萬華區",
+        "addr:full": "台北市萬華區忠孝西路二段20號",
+        "addr:housenumber": "20",
+        "addr:postcode": "108",
+        "addr:street": "忠孝西路二段",
+        "amenity": "bus_station",
+        "branch": "台北站",
+        "bus": "yes",
+        "name": "日統客運臺北站",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "日統汽車客運股份有限公司",
+        "phone": "+886 2 2558 3131",
+        "public_transport": "station",
+        "website": "https://www.solarbus.com",
+        "@timestamp": "2020-08-05T14:52:13Z",
+        "@version": 1,
+        "@changeset": 88988693,
+        "@user": "Supaplex",
+        "@uid": 274857
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5083507,
+          25.0481864
+        ]
+      },
+      "id": "node/7787708384"
+    }
+  ]
+}
